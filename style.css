@@ -1,0 +1,19 @@
+Body{
+    text-align: center;
+}
+
+#myBtn{
+    margin-top: 100px;
+    width:200px;
+    height:30px;
+    font-style: verdana;
+    background-color: green;
+    color:white;
+    border-style: none;
+    cursor: pointer;
+}
+
+#mylabel{
+    font-size: 30px;
+    font-weight: bold;
+}
